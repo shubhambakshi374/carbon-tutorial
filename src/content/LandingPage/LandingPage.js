@@ -97,13 +97,13 @@ const LandingPage = () => {
           />
 
           <InfoCard
-            heading="Carbon is Open"
+            heading="Carbon is Modular"
             body="Carbon's modularity ensures maximum flexibility in execution. It's components are designed to work seamlessly with each other, in whichever combination suits the needs of the user."
             icon={() => <Application size={32} />}
           />
 
           <InfoCard
-            heading="Carbon is Open"
+            heading="Carbon is Consistent"
             body="Based on the comprehensive IBM Design Language, every element and component of Carbon was designed from the ground up to work elegantly together to ensure consistent, cohesive user experiences."
             icon={() => <Globe size={32} />}
           />
